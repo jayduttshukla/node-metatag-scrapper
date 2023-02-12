@@ -10,7 +10,7 @@
     "body-parser": "*",
     "buffer": "*",
     "express": "*",
-    "got": "^11.3.0",
+    "got": "^12.5.3",
     "metascraper": "^5.12.6",
     "nodemon": "^2.0.3",
     "osmosis": "^1.1.10"
